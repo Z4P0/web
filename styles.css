@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  line-height: 1.616;
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+}
+.container {
+  margin: auto;
+  max-width: 90vh;
+  padding: 2em;
+  width: 100%;
+}
